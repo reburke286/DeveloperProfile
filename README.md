@@ -4,11 +4,11 @@
 
     This application creates pdf documents of developer profiles. It uses github API to collect the data.
 
-#### Videos
+<!-- #### Videos
 
     [![Developer Profile Video](http://img.youtube.com/vi/J08n39DxABo/0.jpg)](https://www.youtube.com/watch?v=J08n39DxABo/ "Developer Profile")
 
-    [Developer Profile](https://www.youtube.com/watch?v=J08n39DxABo/)
+    [Developer Profile](https://www.youtube.com/watch?v=J08n39DxABo/) -->
 
 ## Installation
 
