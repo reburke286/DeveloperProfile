@@ -3,9 +3,9 @@
 ## Description
 
     This application creates pdf documents of developer profiles. It uses github API to collect the data. See video at:
-    [![Developer Profile Video](https://i9.ytimg.com/vi/J08n39DxABo/mq2.jpg?sqp=CLjIqPcF&rs=AOn4CLA_9-v3ALDtyynYiKh0uGe0ggpvFw)]
+    [![Developer Profile Video](http://img.youtube.com/vi/J08n39DxABo/0.jpg)](https://www.youtube.com/watch?v=J08n39DxABo/ "Developer Profile")
 
-(https://www.youtube.com/embed/J08n39DxABo?start=3 "Developer Profile")
+<!-- [![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java") -->
 
 ## Installation
 
