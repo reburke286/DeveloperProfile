@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/reburke286/DeveloperProfile#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "fs-extra": "^8.1.0",
     "handlebars": "^4.5.3",
     "inquirer": "^7.0.0",
